@@ -89,3 +89,14 @@ O modelo não "entende" no sentido humano. Ele é um compressor de padrões esta
 
 *[01-01] | Próximo: [01-02 — Redes Neurais por Dentro](01-02-Redes-Neurais-Por-Dentro.md)*
 *Referência externa: CS50 AI (Harvard) — Semana ML*
+
+---
+
+## Próximo Passo
+
+### [→ 01-02 — Redes Neurais por Dentro](01-02-Redes-Neurais-Por-Dentro.md)
+
+
+---
+
+*[← M01 — Fundamentos Conceituais](01-00-Visao-Geral.md) · [🏠 Índice do Curso](../README.md)*

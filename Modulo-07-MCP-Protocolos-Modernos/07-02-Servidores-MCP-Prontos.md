@@ -260,5 +260,11 @@ Com essa config, o agente tem acesso a: arquivos locais, repositórios git, tick
 
 ---
 
-*[07-02] | Anterior: [07-01](07-01-O-que-e-MCP.md) | Próximo: [07-03](07-03-Criando-Servidores-MCP.md)*
-*Referências: modelcontextprotocol.io; awesome-mcp-servers; Anthropic MCP documentation*
+## Próximo Passo
+
+### [→ 07-03 — Criando Servidores MCP](07-03-Criando-Servidores-MCP.md)
+
+
+---
+
+*[← 07-01 — O que é MCP](07-01-O-que-e-MCP.md) · [↑ M07 — MCP e Protocolos Modernos](07-00-Visao-Geral.md) · [🏠 Índice do Curso](../README.md)*

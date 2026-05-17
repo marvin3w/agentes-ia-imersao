@@ -241,5 +241,11 @@ Cada vez que o agente "lê um arquivo do Drive" ou "cria um ticket no Jira", est
 
 ---
 
-*[07-01] | Anterior: [06-04](../Modulo-06-Sistemas-Multiagente/06-04-Debugging-LangSmith.md) | Próximo: [07-02](07-02-Servidores-MCP-Prontos.md)*
-*Referências: MCP Specification; Anthropic MCP docs; "Model Context Protocol Explained" (Simon Willison)*
+## Próximo Passo
+
+### [→ 07-02 — Servidores MCP Prontos](07-02-Servidores-MCP-Prontos.md)
+
+
+---
+
+*[← M07 — MCP e Protocolos Modernos](07-00-Visao-Geral.md) · [🏠 Índice do Curso](../README.md)*

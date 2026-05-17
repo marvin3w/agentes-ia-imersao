@@ -218,5 +218,11 @@ Só então chame a ferramenta."""
 
 ---
 
-*[04-02] | Anterior: [04-01](04-01-O-que-e-um-Agente.md) | Próximo: [04-03](04-03-LangChain-na-Pratica.md)*
-*Referências: Yao et al. (2022) ReAct paper; OpenAI function calling docs; Anthropic tool use*
+## Próximo Passo
+
+### [→ 04-03 — LangChain na Prática](04-03-LangChain-na-Pratica.md)
+
+
+---
+
+*[← 04-01 — O que é um Agente](04-01-O-que-e-um-Agente.md) · [↑ M04 — Agentes de IA](04-00-Visao-Geral.md) · [🏠 Índice do Curso](../README.md)*

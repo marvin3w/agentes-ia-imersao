@@ -184,5 +184,11 @@ results = vectorstore.similarity_search(
 
 ---
 
-*[03-02] | Anterior: [03-01](03-01-Por-que-RAG-Existe.md) | Próximo: [03-03](03-03-Pipelines-RAG-do-Zero.md)*
-*Referências: Qdrant docs; LangChain splitters; "The Illustrated Word2Vec" (Jay Alammar)*
+## Próximo Passo
+
+### [→ 03-03 — Pipelines RAG do Zero](03-03-Pipelines-RAG-do-Zero.md)
+
+
+---
+
+*[← 03-01 — Por que RAG Existe](03-01-Por-que-RAG-Existe.md) · [↑ M03 — RAG e Memória Contextual](03-00-Visao-Geral.md) · [🏠 Índice do Curso](../README.md)*

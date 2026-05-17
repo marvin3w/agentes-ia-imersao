@@ -244,5 +244,11 @@ Filtros por metadados         → Vetorial + filtered search
 
 ---
 
-*[03-03] | Anterior: [03-02](03-02-Bancos-Vetoriais-na-Pratica.md) | Próximo: [03-04](03-04-RAG-como-Ferramenta-de-Agente.md)*
-*Referências: LangChain docs; RAGAS framework; Qdrant examples*
+## Próximo Passo
+
+### [→ 03-04 — RAG como Ferramenta de Agente](03-04-RAG-como-Ferramenta-de-Agente.md)
+
+
+---
+
+*[← 03-02 — Bancos Vetoriais na Prática](03-02-Bancos-Vetoriais-na-Pratica.md) · [↑ M03 — RAG e Memória Contextual](03-00-Visao-Geral.md) · [🏠 Índice do Curso](../README.md)*

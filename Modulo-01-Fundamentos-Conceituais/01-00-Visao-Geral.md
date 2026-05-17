@@ -36,4 +36,11 @@ M01 fecha essas lacunas com o mínimo necessário de teoria.
 
 ---
 
-*[M01-00] | Pré-requisito: nenhum | Próximo: [M02 — NLP e Embeddings](../Modulo-02-NLP-Embeddings-Prompt/02-00-Visao-Geral.md)*
+## Próximo Passo
+
+### [→ 01-01 — Como Máquinas Aprendem](01-01-Como-Maquinas-Aprendem.md)
+
+
+---
+
+*[← Panorama Geral](../00-Panorama-Geral.md) · [🏠 Índice do Curso](../README.md)*

@@ -204,5 +204,13 @@ Um agente com RAG sobre o vault poderia:
 
 ---
 
-*[03-04] | Anterior: [03-03](03-03-Pipelines-RAG-do-Zero.md) | Próximo: [M04-00](../Modulo-04-Agentes-de-IA/04-00-Visao-Geral.md)*
-*Referências: LangChain tools docs; Adaptive RAG paper (2024); Microsoft GraphRAG*
+## Próximo Passo
+
+### [→ M04 — Agentes de IA](../Modulo-04-Agentes-de-IA/04-00-Visao-Geral.md)
+
+*Módulo concluído — clique acima para iniciar o próximo.*
+
+
+---
+
+*[← 03-03 — Pipelines RAG do Zero](03-03-Pipelines-RAG-do-Zero.md) · [↑ M03 — RAG e Memória Contextual](03-00-Visao-Geral.md) · [🏠 Índice do Curso](../README.md)*

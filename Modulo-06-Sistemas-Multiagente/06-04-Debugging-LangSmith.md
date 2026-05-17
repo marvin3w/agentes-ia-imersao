@@ -243,5 +243,13 @@ print(f"Total cost: ${stats.total_tokens * 0.000001:.4f}")
 
 ---
 
-*[06-04] | Anterior: [06-03](06-03-Padroes-Avancados-Multiagente.md) | Próximo: [M07-00](../Modulo-07-MCP-Protocolos-Modernos/07-00-Visao-Geral.md)*
-*Referências: LangSmith docs; RAGAS framework; "Evaluating LLM Applications" (Hamel Husain)*
+## Próximo Passo
+
+### [→ M07 — MCP e Protocolos Modernos](../Modulo-07-MCP-Protocolos-Modernos/07-00-Visao-Geral.md)
+
+*Módulo concluído — clique acima para iniciar o próximo.*
+
+
+---
+
+*[← 06-03 — Padrões Avançados Multiagente](06-03-Padroes-Avancados-Multiagente.md) · [↑ M06 — Sistemas Multiagente](06-00-Visao-Geral.md) · [🏠 Índice do Curso](../README.md)*

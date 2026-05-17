@@ -258,5 +258,11 @@ qdrant-client==1.12.0
 
 ---
 
-*[04-03] | Anterior: [04-02](04-02-ReAct-e-Toolcalling.md) | Próximo: [04-04](04-04-Memoria-e-Persistencia.md)*
-*Referências: LangChain docs v0.3; LCEL guide; Alura LangChain course*
+## Próximo Passo
+
+### [→ 04-04 — Memória e Persistência](04-04-Memoria-e-Persistencia.md)
+
+
+---
+
+*[← 04-02 — ReAct e Toolcalling](04-02-ReAct-e-Toolcalling.md) · [↑ M04 — Agentes de IA](04-00-Visao-Geral.md) · [🏠 Índice do Curso](../README.md)*

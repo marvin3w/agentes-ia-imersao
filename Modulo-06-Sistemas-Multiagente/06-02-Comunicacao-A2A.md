@@ -238,5 +238,11 @@ async def call_specialist_agent(task: str, agent_url: str) -> str:
 
 ---
 
-*[06-02] | Anterior: [06-01](06-01-Arquitetura-Multiagente.md) | Próximo: [06-03](06-03-Padroes-Avancados-Multiagente.md)*
-*Referências: Google A2A spec (2025); OpenAI Swarm; Anthropic MCP docs*
+## Próximo Passo
+
+### [→ 06-03 — Padrões Avançados Multiagente](06-03-Padroes-Avancados-Multiagente.md)
+
+
+---
+
+*[← 06-01 — Arquitetura Multiagente](06-01-Arquitetura-Multiagente.md) · [↑ M06 — Sistemas Multiagente](06-00-Visao-Geral.md) · [🏠 Índice do Curso](../README.md)*

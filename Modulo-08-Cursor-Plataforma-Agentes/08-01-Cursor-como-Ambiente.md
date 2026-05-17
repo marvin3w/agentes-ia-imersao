@@ -213,5 +213,11 @@ node_modules/
 
 ---
 
-*[08-01] | Anterior: [07-04](../Modulo-07-MCP-Protocolos-Modernos/07-04-MCP-Backend-para-Agentes.md) | Próximo: [08-02](08-02-Rules-Skills-e-Hooks.md)*
-*Referências: Cursor docs; docs.cursor.com/context; Cursor changelog*
+## Próximo Passo
+
+### [→ 08-02 — Rules, Skills e Hooks](08-02-Rules-Skills-e-Hooks.md)
+
+
+---
+
+*[← M08 — Cursor como Plataforma](08-00-Visao-Geral.md) · [🏠 Índice do Curso](../README.md)*

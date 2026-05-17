@@ -275,5 +275,13 @@ class MCPConnectionPool:
 
 ---
 
-*[07-04] | Anterior: [07-03](07-03-Criando-Servidores-MCP.md) | Próximo: [M08-00](../Modulo-08-Cursor-Plataforma-Agentes/08-00-Visao-Geral.md)*
-*Referências: langchain-mcp-adapters; MCP Python SDK; LangChain MCP tutorial*
+## Próximo Passo
+
+### [→ M08 — Cursor como Plataforma](../Modulo-08-Cursor-Plataforma-Agentes/08-00-Visao-Geral.md)
+
+*Módulo concluído — clique acima para iniciar o próximo.*
+
+
+---
+
+*[← 07-03 — Criando Servidores MCP](07-03-Criando-Servidores-MCP.md) · [↑ M07 — MCP e Protocolos Modernos](07-00-Visao-Geral.md) · [🏠 Índice do Curso](../README.md)*

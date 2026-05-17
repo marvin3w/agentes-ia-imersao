@@ -167,5 +167,11 @@ Pergunta: [PERGUNTA DO USUÁRIO]
 
 ---
 
-*[02-03] | Anterior: [02-02](02-02-Engenharia-de-Prompt.md) | Próximo: [02-04](02-04-Limitacoes-e-Alucinacoes.md)*
-*Referências: ReAct paper (2022); ToT paper (2023); LangChain docs*
+## Próximo Passo
+
+### [→ 02-04 — Limitações e Alucinações](02-04-Limitacoes-e-Alucinacoes.md)
+
+
+---
+
+*[← 02-02 — Engenharia de Prompt](02-02-Engenharia-de-Prompt.md) · [↑ M02 — NLP, Embeddings e Prompt](02-00-Visao-Geral.md) · [🏠 Índice do Curso](../README.md)*

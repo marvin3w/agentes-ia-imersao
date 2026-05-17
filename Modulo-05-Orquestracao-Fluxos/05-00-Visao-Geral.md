@@ -17,4 +17,13 @@ Agentes simples (M04) funcionam para tarefas lineares. Tarefas complexas com ram
 - **Alura — LangGraph: Orquestrando agentes e multiagentes** (10h): curso mais completo disponível
 - **LangGraph docs**: [langchain-ai.github.io/langgraph](https://langchain-ai.github.io/langgraph)
 
-*Pré-requisito: [M04 — Agentes](../Modulo-04-Agentes-de-IA/04-00-Visao-Geral.md) | Próximo: [M06](../Modulo-06-Sistemas-Multiagente/06-00-Visao-Geral.md)*
+---
+
+## Próximo Passo
+
+### [→ 05-01 — Grafos de Decisão LangGraph](05-01-Grafos-de-Decisao-LangGraph.md)
+
+
+---
+
+*[← 04-04 — Memória e Persistência](../Modulo-04-Agentes-de-IA/04-04-Memoria-e-Persistencia.md) · [🏠 Índice do Curso](../README.md)*

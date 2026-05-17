@@ -141,3 +141,14 @@ print(f"Resultado: {docs[best_match_idx]} (score: {similarities[best_match_idx]:
 
 *[02-01] | Anterior: [02-00](02-00-Visao-Geral.md) | Próximo: [02-02](02-02-Engenharia-de-Prompt.md)*
 *Referência: CS50 AI (Harvard) — NLP; Sentence Transformers*
+
+---
+
+## Próximo Passo
+
+### [→ 02-02 — Engenharia de Prompt](02-02-Engenharia-de-Prompt.md)
+
+
+---
+
+*[← M02 — NLP, Embeddings e Prompt](02-00-Visao-Geral.md) · [🏠 Índice do Curso](../README.md)*

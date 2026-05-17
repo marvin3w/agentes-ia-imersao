@@ -243,5 +243,11 @@ Chain → formata e entrega
 
 ---
 
-*[05-03] | Anterior: [05-02](05-02-Controle-de-Estado-LangGraph.md) | Próximo: [05-04](05-04-Tools-Externas-e-Integracoes.md)*
-*Referências: Anthropic "Building Effective Agents" (2024); LangGraph patterns; Andrew Ng DeepLearning.AI*
+## Próximo Passo
+
+### [→ 05-04 — Tools Externas e Integrações](05-04-Tools-Externas-e-Integracoes.md)
+
+
+---
+
+*[← 05-02 — Controle de Estado LangGraph](05-02-Controle-de-Estado-LangGraph.md) · [↑ M05 — Orquestração e Fluxos](05-00-Visao-Geral.md) · [🏠 Índice do Curso](../README.md)*

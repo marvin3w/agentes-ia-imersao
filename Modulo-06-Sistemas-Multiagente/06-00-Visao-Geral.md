@@ -18,4 +18,13 @@ Como múltiplos agentes cooperam para resolver problemas maiores? Padrões super
 - **LangSmith docs**: [smith.langchain.com](https://smith.langchain.com)
 - **A2A Protocol (Google)**: padrão emergente de comunicação entre agentes
 
-*Pré-requisito: [M05](../Modulo-05-Orquestracao-Fluxos/05-00-Visao-Geral.md) | Próximo: [M07](../Modulo-07-MCP-Protocolos-Modernos/07-00-Visao-Geral.md)*
+---
+
+## Próximo Passo
+
+### [→ 06-01 — Arquitetura Multiagente](06-01-Arquitetura-Multiagente.md)
+
+
+---
+
+*[← 05-04 — Tools Externas e Integrações](../Modulo-05-Orquestracao-Fluxos/05-04-Tools-Externas-e-Integracoes.md) · [🏠 Índice do Curso](../README.md)*

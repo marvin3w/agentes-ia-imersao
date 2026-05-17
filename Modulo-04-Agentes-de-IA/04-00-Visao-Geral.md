@@ -18,4 +18,13 @@ O que é um agente, afinal? Como um LLM que só "prediz o próximo token" conseg
 - **LangChain Agents**: [python.langchain.com/docs/modules/agents](https://python.langchain.com/docs/modules/agents)
 - **ReAct paper (2022)**: fundação teórica dos agentes modernos
 
-*Pré-requisito: [M02-03 — Padrões Avançados de Prompt](../Modulo-02-NLP-Embeddings-Prompt/02-03-Padroes-Avancados-de-Prompt.md) | Próximo: [M05](../Modulo-05-Orquestracao-Fluxos/05-00-Visao-Geral.md)*
+---
+
+## Próximo Passo
+
+### [→ 04-01 — O que é um Agente](04-01-O-que-e-um-Agente.md)
+
+
+---
+
+*[← 03-04 — RAG como Ferramenta de Agente](../Modulo-03-RAG-Memoria-Contextual/03-04-RAG-como-Ferramenta-de-Agente.md) · [🏠 Índice do Curso](../README.md)*

@@ -17,4 +17,13 @@ Como dar ao modelo acesso a informações que não estavam no treinamento, de fo
 - **Alura — Flash Skills: RAG e Agentes de IA** (2h): [alura.com.br/formacao-criando-agentes-ia](https://www.alura.com.br/formacao-criando-agentes-ia)
 - **LangChain RAG docs**: [python.langchain.com/docs/use_cases/question_answering](https://python.langchain.com/docs/use_cases/question_answering)
 
-*Pré-requisito: [M02-01 — Embeddings](../Modulo-02-NLP-Embeddings-Prompt/02-01-Embeddings-e-Espaco-Vetorial.md) | Próximo: [M04 — Agentes](../Modulo-04-Agentes-de-IA/04-00-Visao-Geral.md)*
+---
+
+## Próximo Passo
+
+### [→ 03-01 — Por que RAG Existe](03-01-Por-que-RAG-Existe.md)
+
+
+---
+
+*[← 02-04 — Limitações e Alucinações](../Modulo-02-NLP-Embeddings-Prompt/02-04-Limitacoes-e-Alucinacoes.md) · [🏠 Índice do Curso](../README.md)*

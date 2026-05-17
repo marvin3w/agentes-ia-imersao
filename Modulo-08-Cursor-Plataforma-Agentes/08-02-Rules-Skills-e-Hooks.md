@@ -287,5 +287,11 @@ Contexto do usuário (@mentions, arquivos abertos, chat history)
 
 ---
 
-*[08-02] | Anterior: [08-01](08-01-Cursor-como-Ambiente.md) | Próximo: [08-03](08-03-Cursor-CLI-e-SDK.md)*
-*Referências: Cursor Rules docs; Cursor Hooks docs; vault AGENTS.md*
+## Próximo Passo
+
+### [→ 08-03 — Cursor CLI e SDK](08-03-Cursor-CLI-e-SDK.md)
+
+
+---
+
+*[← 08-01 — Cursor como Ambiente](08-01-Cursor-como-Ambiente.md) · [↑ M08 — Cursor como Plataforma](08-00-Visao-Geral.md) · [🏠 Índice do Curso](../README.md)*

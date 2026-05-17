@@ -172,5 +172,11 @@ Extraia em JSON:
 
 ---
 
-*[02-02] | Anterior: [02-01](02-01-Embeddings-e-Espaco-Vetorial.md) | Próximo: [02-03](02-03-Padroes-Avancados-de-Prompt.md)*
-*Referências: Anthropic Prompt Guide; DAIR.AI Prompt Engineering*
+## Próximo Passo
+
+### [→ 02-03 — Padrões Avançados de Prompt](02-03-Padroes-Avancados-de-Prompt.md)
+
+
+---
+
+*[← 02-01 — Embeddings e Espaço Vetorial](02-01-Embeddings-e-Espaco-Vetorial.md) · [↑ M02 — NLP, Embeddings e Prompt](02-00-Visao-Geral.md) · [🏠 Índice do Curso](../README.md)*

@@ -255,5 +255,13 @@ from langchain_community.agent_toolkits import (
 
 ---
 
-*[05-04] | Anterior: [05-03](05-03-Padroes-de-Orquestracao.md) | Próximo: [M06-00](../Modulo-06-Sistemas-Multiagente/06-00-Visao-Geral.md)*
-*Referências: LangChain tools docs; Tavily API; "Building LLM-powered Tools" (Hamel Husain)*
+## Próximo Passo
+
+### [→ M06 — Sistemas Multiagente](../Modulo-06-Sistemas-Multiagente/06-00-Visao-Geral.md)
+
+*Módulo concluído — clique acima para iniciar o próximo.*
+
+
+---
+
+*[← 05-03 — Padrões de Orquestração](05-03-Padroes-de-Orquestracao.md) · [↑ M05 — Orquestração e Fluxos](05-00-Visao-Geral.md) · [🏠 Índice do Curso](../README.md)*

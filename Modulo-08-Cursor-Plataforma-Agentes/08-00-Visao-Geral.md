@@ -18,4 +18,13 @@ Cursor não é só um editor — é uma plataforma de agentes com primitivas pr�
 - **Cursor SDK**: [npmjs.com/package/@cursor/sdk](https://www.npmjs.com/package/@cursor/sdk)
 - **Vault Reference**: `.cursor/rules/`, `.cursor/skills/`, `.cursor/hooks/`
 
-*Pré-requisito: [M07](../Modulo-07-MCP-Protocolos-Modernos/07-00-Visao-Geral.md) | Fim do curso*
+---
+
+## Próximo Passo
+
+### [→ 08-01 — Cursor como Ambiente](08-01-Cursor-como-Ambiente.md)
+
+
+---
+
+*[← 07-04 — MCP Backend para Agentes](../Modulo-07-MCP-Protocolos-Modernos/07-04-MCP-Backend-para-Agentes.md) · [🏠 Índice do Curso](../README.md)*

@@ -302,5 +302,11 @@ for line in response.iter_lines():
 
 ---
 
-*[08-03] | Anterior: [08-02](08-02-Rules-Skills-e-Hooks.md) | Próximo: [08-04](08-04-Automacao-do-Vault.md)*
-*Referências: Cursor SDK docs; Cursor CLI reference; @cursor/sdk npm package*
+## Próximo Passo
+
+### [→ 08-04 — Automação do Vault](08-04-Automacao-do-Vault.md)
+
+
+---
+
+*[← 08-02 — Rules, Skills e Hooks](08-02-Rules-Skills-e-Hooks.md) · [↑ M08 — Cursor como Plataforma](08-00-Visao-Geral.md) · [🏠 Índice do Curso](../README.md)*

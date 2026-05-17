@@ -29,4 +29,11 @@ Se você já usa LLMs há tempo, provavelmente tem intuição sobre prompt engin
 
 ---
 
-*[M02-00] | Pré-requisito: [M01](../Modulo-01-Fundamentos-Conceituais/01-00-Visao-Geral.md) | Próximo: [M03 — RAG](../Modulo-03-RAG-Memoria-Contextual/03-00-Visao-Geral.md)*
+## Próximo Passo
+
+### [→ 02-01 — Embeddings e Espaço Vetorial](02-01-Embeddings-e-Espaco-Vetorial.md)
+
+
+---
+
+*[← 01-04 — LLMs: do Token ao Output](../Modulo-01-Fundamentos-Conceituais/01-04-LLMs-do-Token-ao-Output.md) · [🏠 Índice do Curso](../README.md)*

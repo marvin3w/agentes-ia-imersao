@@ -105,3 +105,14 @@ O paper original "Attention Is All You Need" (2017, Google) é um dos mais citad
 
 *[01-03] | Anterior: [01-02](01-02-Redes-Neurais-Por-Dentro.md) | Próximo: [01-04](01-04-LLMs-do-Token-ao-Output.md)*
 *Referência externa: CS50 AI (Harvard) — Semana NLP; "Attention Is All You Need" (2017)*
+
+---
+
+## Próximo Passo
+
+### [→ 01-04 — LLMs: do Token ao Output](01-04-LLMs-do-Token-ao-Output.md)
+
+
+---
+
+*[← 01-02 — Redes Neurais por Dentro](01-02-Redes-Neurais-Por-Dentro.md) · [↑ M01 — Fundamentos Conceituais](01-00-Visao-Geral.md) · [🏠 Índice do Curso](../README.md)*

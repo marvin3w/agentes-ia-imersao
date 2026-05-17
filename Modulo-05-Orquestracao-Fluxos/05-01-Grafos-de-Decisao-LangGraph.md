@@ -221,5 +221,11 @@ agent_app = create_react_agent(
 
 ---
 
-*[05-01] | Anterior: [04-04](../Modulo-04-Agentes-de-IA/04-04-Memoria-e-Persistencia.md) | Próximo: [05-02](05-02-Controle-de-Estado-LangGraph.md)*
-*Referências: LangGraph docs; "Building Stateful Multi-Actor Applications with LangGraph" (LangChain blog)*
+## Próximo Passo
+
+### [→ 05-02 — Controle de Estado LangGraph](05-02-Controle-de-Estado-LangGraph.md)
+
+
+---
+
+*[← M05 — Orquestração e Fluxos](05-00-Visao-Geral.md) · [🏠 Índice do Curso](../README.md)*

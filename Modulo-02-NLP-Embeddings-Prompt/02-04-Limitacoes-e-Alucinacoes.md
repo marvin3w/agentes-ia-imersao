@@ -131,5 +131,13 @@ Nunca sem RAG/ferramenta externa:
 
 ---
 
-*[02-04] | Anterior: [02-03](02-03-Padroes-Avancados-de-Prompt.md) | Próximo: [M03 — RAG](../Modulo-03-RAG-Memoria-Contextual/03-00-Visao-Geral.md)*
-*Referências: "Lost in the Middle" paper (2023); Anthropic model card*
+## Próximo Passo
+
+### [→ M03 — RAG e Memória Contextual](../Modulo-03-RAG-Memoria-Contextual/03-00-Visao-Geral.md)
+
+*Módulo concluído — clique acima para iniciar o próximo.*
+
+
+---
+
+*[← 02-03 — Padrões Avançados de Prompt](02-03-Padroes-Avancados-de-Prompt.md) · [↑ M02 — NLP, Embeddings e Prompt](02-00-Visao-Geral.md) · [🏠 Índice do Curso](../README.md)*

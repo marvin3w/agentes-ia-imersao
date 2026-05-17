@@ -362,5 +362,11 @@ pip install meu-servidor-mcp
 
 ---
 
-*[07-03] | Anterior: [07-02](07-02-Servidores-MCP-Prontos.md) | Próximo: [07-04](07-04-MCP-Backend-para-Agentes.md)*
-*Referências: FastMCP library; MCP Python SDK; Anthropic "Build Your First MCP Server"*
+## Próximo Passo
+
+### [→ 07-04 — MCP Backend para Agentes](07-04-MCP-Backend-para-Agentes.md)
+
+
+---
+
+*[← 07-02 — Servidores MCP Prontos](07-02-Servidores-MCP-Prontos.md) · [↑ M07 — MCP e Protocolos Modernos](07-00-Visao-Geral.md) · [🏠 Índice do Curso](../README.md)*

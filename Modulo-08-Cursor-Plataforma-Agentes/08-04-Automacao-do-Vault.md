@@ -233,19 +233,13 @@ Todos os módulos desta imersão:
 
 ---
 
-*[08-04] | Anterior: [08-03](08-03-Cursor-CLI-e-SDK.md) | Fim da imersão*
+## 🏁 Imersão Concluída
+
+Você percorreu os 8 módulos da Imersão em Agentes de IA. O próximo passo é construir algo real.
+
+**[→ Voltar ao Índice do Curso](../README.md)**
+
 
 ---
 
-## Parabéns por completar a Imersão em Agentes de IA
-
-Você passou por 8 módulos que cobriram: os fundamentos que nenhum curso rápido ensina, as ferramentas que o mercado usa em 2025, e o caso concreto mais próximo de você — o vault que você usa todo dia.
-
-O próximo passo não é mais leitura. É construir algo.
-
-*"An agent that can't act is just a chatbot with a fancy name."*
-
----
-
-*[Imersão em Agentes de IA] | Volta para: [README](../README.md)*
-*Criado via Sistema de Imersão Modular — vault Marcus-Docs (2026)*
+*[← 08-03 — Cursor CLI e SDK](08-03-Cursor-CLI-e-SDK.md) · [↑ M08 — Cursor como Plataforma](08-00-Visao-Geral.md) · [🏠 Índice do Curso](../README.md)*

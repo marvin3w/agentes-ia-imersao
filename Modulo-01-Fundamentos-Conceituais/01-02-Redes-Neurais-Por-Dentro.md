@@ -116,3 +116,14 @@ A resposta depende de entender que:
 
 *[01-02] | Anterior: [01-01](01-01-Como-Maquinas-Aprendem.md) | Próximo: [01-03](01-03-Transformers-e-Atencao.md)*
 *Referência externa: Harvard Neural Networks; 3Blue1Brown*
+
+---
+
+## Próximo Passo
+
+### [→ 01-03 — Transformers e Atenção](01-03-Transformers-e-Atencao.md)
+
+
+---
+
+*[← 01-01 — Como Máquinas Aprendem](01-01-Como-Maquinas-Aprendem.md) · [↑ M01 — Fundamentos Conceituais](01-00-Visao-Geral.md) · [🏠 Índice do Curso](../README.md)*

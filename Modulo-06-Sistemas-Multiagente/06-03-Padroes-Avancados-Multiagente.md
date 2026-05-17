@@ -259,5 +259,11 @@ Este padrão requer fine-tuning (custo maior) mas produz melhorias drásticas de
 
 ---
 
-*[06-03] | Anterior: [06-02](06-02-Comunicacao-A2A.md) | Próximo: [06-04](06-04-Debugging-LangSmith.md)*
-*Referências: Reflexion paper (2023); STORM (Stanford 2024); Tree of Thoughts (2023)*
+## Próximo Passo
+
+### [→ 06-04 — Debugging com LangSmith](06-04-Debugging-LangSmith.md)
+
+
+---
+
+*[← 06-02 — Comunicação A2A](06-02-Comunicacao-A2A.md) · [↑ M06 — Sistemas Multiagente](06-00-Visao-Geral.md) · [🏠 Índice do Curso](../README.md)*

@@ -240,5 +240,13 @@ Pipeline batch          → Sem memória (cada execução independente)
 
 ---
 
-*[04-04] | Anterior: [04-03](04-03-LangChain-na-Pratica.md) | Próximo: [M05-00](../Modulo-05-Orquestracao-Fluxos/05-00-Visao-Geral.md)*
-*Referências: LangChain memory docs; Mem0 library; "Cognitive Architectures for LLM Agents" (survey)*
+## Próximo Passo
+
+### [→ M05 — Orquestração e Fluxos](../Modulo-05-Orquestracao-Fluxos/05-00-Visao-Geral.md)
+
+*Módulo concluído — clique acima para iniciar o próximo.*
+
+
+---
+
+*[← 04-03 — LangChain na Prática](04-03-LangChain-na-Pratica.md) · [↑ M04 — Agentes de IA](04-00-Visao-Geral.md) · [🏠 Índice do Curso](../README.md)*

@@ -136,3 +136,16 @@ Tipos comuns:
 
 *[01-04] | Anterior: [01-03](01-03-Transformers-e-Atencao.md) | Próximo: [M02 — NLP e Embeddings](../Modulo-02-NLP-Embeddings-Prompt/02-00-Visao-Geral.md)*
 *Referência externa: Andrej Karpathy; CS50 AI (Harvard)*
+
+---
+
+## Próximo Passo
+
+### [→ M02 — NLP, Embeddings e Prompt](../Modulo-02-NLP-Embeddings-Prompt/02-00-Visao-Geral.md)
+
+*Módulo concluído — clique acima para iniciar o próximo.*
+
+
+---
+
+*[← 01-03 — Transformers e Atenção](01-03-Transformers-e-Atencao.md) · [↑ M01 — Fundamentos Conceituais](01-00-Visao-Geral.md) · [🏠 Índice do Curso](../README.md)*

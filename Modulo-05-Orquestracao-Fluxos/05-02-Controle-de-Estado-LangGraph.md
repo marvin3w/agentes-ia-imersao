@@ -230,5 +230,11 @@ class ProductionAgentState(TypedDict):
 
 ---
 
-*[05-02] | Anterior: [05-01](05-01-Grafos-de-Decisao-LangGraph.md) | Próximo: [05-03](05-03-Padroes-de-Orquestracao.md)*
-*Referências: LangGraph docs; "State Management in Agentic Systems" (Anthropic engineering blog)*
+## Próximo Passo
+
+### [→ 05-03 — Padrões de Orquestração](05-03-Padroes-de-Orquestracao.md)
+
+
+---
+
+*[← 05-01 — Grafos de Decisão LangGraph](05-01-Grafos-de-Decisao-LangGraph.md) · [↑ M05 — Orquestração e Fluxos](05-00-Visao-Geral.md) · [🏠 Índice do Curso](../README.md)*

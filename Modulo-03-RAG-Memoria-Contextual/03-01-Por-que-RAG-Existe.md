@@ -123,3 +123,14 @@ A beleza do RAG: o LLM não precisa "saber" a resposta. Ele só precisa sintetiz
 
 *[03-01] | Anterior: [03-00](03-00-Visao-Geral.md) | Próximo: [03-02](03-02-Bancos-Vetoriais-na-Pratica.md)*
 *Referência: RAG paper (Lewis et al., 2020); LangChain docs*
+
+---
+
+## Próximo Passo
+
+### [→ 03-02 — Bancos Vetoriais na Prática](03-02-Bancos-Vetoriais-na-Pratica.md)
+
+
+---
+
+*[← M03 — RAG e Memória Contextual](03-00-Visao-Geral.md) · [🏠 Índice do Curso](../README.md)*

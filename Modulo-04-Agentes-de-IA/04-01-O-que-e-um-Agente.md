@@ -177,5 +177,11 @@ print(result["output"])
 
 ---
 
-*[04-01] | Anterior: [03-04](../Modulo-03-RAG-Memoria-Contextual/03-04-RAG-como-Ferramenta-de-Agente.md) | Próximo: [04-02](04-02-ReAct-e-Toolcalling.md)*
-*Referências: Russell & Norvig (2020); Anthropic agents docs; LangChain agents*
+## Próximo Passo
+
+### [→ 04-02 — ReAct e Toolcalling](04-02-ReAct-e-Toolcalling.md)
+
+
+---
+
+*[← M04 — Agentes de IA](04-00-Visao-Geral.md) · [🏠 Índice do Curso](../README.md)*

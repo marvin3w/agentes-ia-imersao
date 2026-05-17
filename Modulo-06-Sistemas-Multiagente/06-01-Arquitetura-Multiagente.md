@@ -216,5 +216,11 @@ supervisor_tools = [transfer_to_researcher, transfer_to_analyst]
 
 ---
 
-*[06-01] | Anterior: [05-04](../Modulo-05-Orquestracao-Fluxos/05-04-Tools-Externas-e-Integracoes.md) | Próximo: [06-02](06-02-Comunicacao-A2A.md)*
-*Referências: LangGraph multi-agent docs; Google A2A protocol; Anthropic "Building Effective Agents"*
+## Próximo Passo
+
+### [→ 06-02 — Comunicação A2A](06-02-Comunicacao-A2A.md)
+
+
+---
+
+*[← M06 — Sistemas Multiagente](06-00-Visao-Geral.md) · [🏠 Índice do Curso](../README.md)*
