@@ -19,6 +19,17 @@ Agentes simples (M04) funcionam para tarefas lineares. Tarefas complexas com ram
 
 ---
 
+<!-- notebooklm-recursos -->
+> ### 🎓 Recursos de Aprendizado — NotebookLM
+>
+> 🎧 **Podcast:** "Orquestração e o fim da IA generalista" — ouça antes de começar o módulo
+>
+> 📝 **Quiz:** "Agentes Quiz" — teste seu conhecimento ao final
+>
+> 🔗 [Abrir notebook completo](https://notebooklm.google.com/notebook/2d7856e7-0775-403c-ad10-9560237a2e33)
+<!-- notebooklm-recursos -->
+
+
 ## Próximo Passo
 
 ### [→ 05-01 — Grafos de Decisão LangGraph](05-01-Grafos-de-Decisao-LangGraph.md)

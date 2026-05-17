@@ -20,6 +20,17 @@ Como múltiplos agentes cooperam para resolver problemas maiores? Padrões super
 
 ---
 
+<!-- notebooklm-recursos -->
+> ### 🎓 Recursos de Aprendizado — NotebookLM
+>
+> 🎧 **Podcast:** "Agentes confiáveis com LangChain e LangGraph" — ouça antes de começar o módulo
+>
+> 📝 **Quiz:** "LangChain Quiz" — teste seu conhecimento ao final
+>
+> 🔗 [Abrir notebook completo](https://notebooklm.google.com/notebook/2d7856e7-0775-403c-ad10-9560237a2e33)
+<!-- notebooklm-recursos -->
+
+
 ## Próximo Passo
 
 ### [→ 06-01 — Arquitetura Multiagente](06-01-Arquitetura-Multiagente.md)

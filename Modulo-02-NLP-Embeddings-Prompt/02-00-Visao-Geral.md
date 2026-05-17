@@ -10,6 +10,17 @@ Se você já usa LLMs há tempo, provavelmente tem intuição sobre prompt engin
 
 ---
 
+<!-- notebooklm-recursos -->
+> ### 🎓 Recursos de Aprendizado — NotebookLM
+>
+> 🎧 **Podcast:** "Engenharia de prompt é arquitetura de pensamento" — ouça antes de começar o módulo
+>
+> 📝 **Quiz:** "Prompt Quiz" — teste seu conhecimento ao final
+>
+> 🔗 [Abrir notebook completo](https://notebooklm.google.com/notebook/2d7856e7-0775-403c-ad10-9560237a2e33)
+<!-- notebooklm-recursos -->
+
+
 ## Documentos do Módulo
 
 | Doc | Título | Tempo |

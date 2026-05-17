@@ -17,6 +17,17 @@ M01 fecha essas lacunas com o mínimo necessário de teoria.
 
 ---
 
+<!-- notebooklm-recursos -->
+> ### 🎓 Recursos de Aprendizado — NotebookLM
+>
+> 🎧 **Podcast:** "IA é apenas um autocompletar sofisticado" — ouça antes de começar o módulo
+>
+> 📝 **Quiz:** "LLM Quiz" — teste seu conhecimento ao final
+>
+> 🔗 [Abrir notebook completo](https://notebooklm.google.com/notebook/2d7856e7-0775-403c-ad10-9560237a2e33)
+<!-- notebooklm-recursos -->
+
+
 ## Documentos do Módulo
 
 | Doc | Título | Tempo |

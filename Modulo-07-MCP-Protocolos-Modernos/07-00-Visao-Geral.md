@@ -20,6 +20,17 @@ Model Context Protocol (MCP) é o padrão que está unificando como agentes se c
 
 ---
 
+<!-- notebooklm-recursos -->
+> ### 🎓 Recursos de Aprendizado — NotebookLM
+>
+> 🎧 **Podcast:** "Como gerenciar agentes de IA em produção" — ouça antes de começar o módulo
+>
+> 📝 **Quiz:** "Agentes Quiz" — teste seu conhecimento ao final
+>
+> 🔗 [Abrir notebook completo](https://notebooklm.google.com/notebook/2d7856e7-0775-403c-ad10-9560237a2e33)
+<!-- notebooklm-recursos -->
+
+
 ## Próximo Passo
 
 ### [→ 07-01 — O que é MCP](07-01-O-que-e-MCP.md)

@@ -20,6 +20,17 @@ O que é um agente, afinal? Como um LLM que só "prediz o próximo token" conseg
 
 ---
 
+<!-- notebooklm-recursos -->
+> ### 🎓 Recursos de Aprendizado — NotebookLM
+>
+> 🎧 **Podcast:** "Como os agentes autônomos de IA decidem" — ouça antes de começar o módulo
+>
+> 📝 **Quiz:** "Agentes Quiz" — teste seu conhecimento ao final
+>
+> 🔗 [Abrir notebook completo](https://notebooklm.google.com/notebook/2d7856e7-0775-403c-ad10-9560237a2e33)
+<!-- notebooklm-recursos -->
+
+
 ## Próximo Passo
 
 ### [→ 04-01 — O que é um Agente](04-01-O-que-e-um-Agente.md)

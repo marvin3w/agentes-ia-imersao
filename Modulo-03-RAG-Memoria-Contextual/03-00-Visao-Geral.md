@@ -19,6 +19,17 @@ Como dar ao modelo acesso a informações que não estavam no treinamento, de fo
 
 ---
 
+<!-- notebooklm-recursos -->
+> ### 🎓 Recursos de Aprendizado — NotebookLM
+>
+> 🎧 **Podcast:** "Do prompt ao arquiteto de agentes" — ouça antes de começar o módulo
+>
+> 📝 **Quiz:** "RAG Quiz" — teste seu conhecimento ao final
+>
+> 🔗 [Abrir notebook completo](https://notebooklm.google.com/notebook/2d7856e7-0775-403c-ad10-9560237a2e33)
+<!-- notebooklm-recursos -->
+
+
 ## Próximo Passo
 
 ### [→ 03-01 — Por que RAG Existe](03-01-Por-que-RAG-Existe.md)
